@@ -9,32 +9,32 @@ Si accettano suggerimenti, adattamenti e correzioni di terminologie o di eventua
 
 == Terminologie ==
 
-Cancel - > Cancella 
-Delete -> Elimina
-Remove -> Rimuovi
-Submit -> Invia?
-major -> principale
-minor -> secondaria
+- Cancel - > Cancella 
+- Delete -> Elimina
+- Remove -> Rimuovi
+- Submit -> Invia?
+- major -> principale
+- minor -> secondaria
 
-Cart -> Carrello
-Checkout -> Checkout
-Wishlist -> Lista desideri
+- Cart -> Carrello
+- Checkout -> Checkout
+- Wishlist -> Lista desideri
 
-Base Secure URL -> Base URL Sicuro
-Base Unsecure URL -> Base URL Non Sicuro
-Layout -> Layout
-Template -> Template
-Index -> Indice
-Log -> Log
-Media Storage -> ??
-Cache Types -> ??
+- Base Secure URL -> Base URL Sicuro
+- Base Unsecure URL -> Base URL Non Sicuro
+- Layout -> Layout
+- Template -> Template
+- Index -> Indice
+- Log -> Log
+- Media Storage -> ??
+- Cache Types -> ??
 
 
 
 
 
 == VOCI DI MENU ==
-Cache Management -> Gestione Cache
-Index Management -> Gestione Indici
+- Cache Management -> Gestione Cache
+- Index Management -> Gestione Indici
 
 == OPZIONI DI CONFIG ==
