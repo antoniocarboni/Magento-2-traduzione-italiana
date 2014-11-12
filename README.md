@@ -9,7 +9,7 @@ Si accettano suggerimenti, adattamenti e correzioni di terminologie o di eventua
 
 == Terminologie ==
 
-Cancel - > Cancella
+Cancel - > Cancella 
 Delete -> Elimina
 Remove -> Rimuovi
 Submit -> Invia?
