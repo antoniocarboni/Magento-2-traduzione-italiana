@@ -8,7 +8,7 @@ Si accettano suggerimenti, adattamenti e correzioni di terminologie o di eventua
 
 
 ====  Terminologie ====
-____________________________
+
 
 - Cancel - > Cancella 
 - Delete -> Elimina
@@ -31,13 +31,21 @@ ____________________________
 - Cache Types -> ??
 
 
-
+____________________________
 
 
 ====== VOCI DI MENU ====== 
-____________________________
+
 - Cache Management -> Gestione Cache
 - Index Management -> Gestione Indici
+____________________________
+
+
+
 
 ====== OPZIONI DI CONFIG ====== 
+
+
+
+
 ____________________________
