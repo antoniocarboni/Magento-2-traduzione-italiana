@@ -7,8 +7,8 @@ Di seguito verranno ricapitolate le voci e le terminologie da adottare e mantene
 Si accettano suggerimenti, adattamenti e correzioni di terminologie o di eventuali stringhe errate.
 
 
-======  Terminologie ====== 
-=============================
+====  Terminologie ====
+____________________________
 
 - Cancel - > Cancella 
 - Delete -> Elimina
@@ -35,9 +35,9 @@ Si accettano suggerimenti, adattamenti e correzioni di terminologie o di eventua
 
 
 ====== VOCI DI MENU ====== 
-=============================
+____________________________
 - Cache Management -> Gestione Cache
 - Index Management -> Gestione Indici
 
 ====== OPZIONI DI CONFIG ====== 
-=============================
+____________________________
