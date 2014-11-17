@@ -1,29 +1,29 @@
-Cancel,Cancel
-"You don't have enough on your credit card to pay for this purchase. To complete your purchase, click ""OK"" and add a credit card to use for the balance. Otherwise, you can cancel the purchase and release the partial payment we are holding.","You don't have enough on your credit card to pay for this purchase. To complete your purchase, click ""OK"" and add a credit card to use for the balance. Otherwise, you can cancel the purchase and release the partial payment we are holding."
-"Your credit card has been declined. You can click OK to add another credit card to complete your purchase. Or you can cancel this credit transaction and pay a different way.","Your credit card has been declined. You can click OK to add another credit card to complete your purchase. Or you can cancel this credit transaction and pay a different way."
-"We canceled your payment and released any money we were holding.","We canceled your payment and released any money we were holding."
-"You can't use any more credit cards for this payment, and you don't have enough to pay for this purchase. Sorry, but we'll have to cancel your transaction.","You can't use any more credit cards for this payment, and you don't have enough to pay for this purchase. Sorry, but we'll have to cancel your transaction."
-"Your order has not been placed, because the contents of the shopping cart and/or your address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process to purchase your cart contents.","Your order has not been placed, because the contents of the shopping cart and/or your address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process to purchase your cart contents."
-"Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.","Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment."
-"Processed Amount","Processed Amount"
-"Remaining Balance","Remaining Balance"
-"Order saving error: %1","Order saving error: %1"
-"Please choose a payment method.","Please choose a payment method."
-"You created the order.","You created the order."
-"Something went wrong canceling the transactions.","Something went wrong canceling the transactions."
-"There was an error canceling transactions. Please contact us or try again later.","There was an error canceling transactions. Please contact us or try again later."
-"We couldn't process your order right now. Please try again later.","We couldn't process your order right now. Please try again later."
-"amount %1","amount %1"
-failed,failed
-successful,successful
-"Credit Card: xxxx-%1","Credit Card: xxxx-%1"
-"Authorize.Net Transaction ID %1","Authorize.Net Transaction ID %1"
+Cancel,Annulla
+"You don't have enough on your credit card to pay for this purchase. To complete your purchase, click ""OK"" and add a credit card to use for the balance. Otherwise, you can cancel the purchase and release the partial payment we are holding.","Non hai abbastanza fondi nella tua Carta di Credito per pagare questo acquisto. Per completare l'acquisto, clicca ""OK"" aggiungi una carta di credito. In caso contrario è possibile annullare l'acquisto e rilasciare il pagamento parziale che stiamo trattenendo."
+"Your credit card has been declined. You can click OK to add another credit card to complete your purchase. Or you can cancel this credit transaction and pay a different way.","La tua carta di credito è stata rifiutata. Puoi cliccare OK per aggiungere un'altra carta di credito e completare l'acquisto. Oppure puoi annullare questa transazione e pagare con una modalità differente."
+"We canceled your payment and released any money we were holding.","Abbiamo annullato il tuo pagamento e rilasciato tutto il credito in sospeso."
+"You can't use any more credit cards for this payment, and you don't have enough to pay for this purchase. Sorry, but we'll have to cancel your transaction.","Non puoi usare altre carte di credito per questo pagamento, e non hai abbastanza credito per pagare questo acquisto. Ci dispiace ma dovremmo annullare questa transazione."
+"Your order has not been placed, because the contents of the shopping cart and/or your address has been changed. Authorized amounts from your previous payment that were left pending are now released. Please go through the checkout process to purchase your cart contents.","Il tuo ordine non è stato confermato perchè il contenuto del carrello e/o il tuo indirizzo sono cambiati. L'importo trattenuto dal tuo pagamento precedente che era in sospeso ora è stato rilasciato. Ti preghiamo di passare attraverso il processo di checkout per acquistare il contenuto del tuo carrello."
+"Are you sure you want to cancel your payment? Click OK to cancel your payment and release the amount on hold. Click Cancel to enter another credit card and continue with your payment.","Sei sicuro di voler annullare il tuo pagamento? Clicca OK per annullare il tuo pagamento e rilasciare il tuo importo in sospeso. Clicca Annulla per inserire un'altra carta di credito e continuare con il pagamento."
+"Processed Amount","Importo in lavorazione"
+"Remaining Balance","saldo rimanente"
+"Order saving error: %1","Errore Ordine salvato: %1"
+"Please choose a payment method.","Scegli un metodo di pagamento."
+"You created the order.","Hai creato l'ordine."
+"Something went wrong canceling the transactions.","Qualcosa è andato storto durante l'annullamento della transazione."
+"There was an error canceling transactions. Please contact us or try again later.","C'è stato un errore nell'annullamento della transazione."
+"We couldn't process your order right now. Please try again later.","Non possiamo processare il tuo ordine ora. Riprova più tardi."
+"amount %1","importo %1"
+failed,fallito
+successful,riuscito
+"Credit Card: xxxx-%1","Carta di Credito: xxxx-%1"
+"Authorize.Net Transaction ID %1","ID Transazione Authorize.Net %1"
 authorize,authorize
 "authorize and capture","authorize and capture"
 capture,capture
-refund,refund
-void,void
-"This is an invalid amount for authorization.","This is an invalid amount for authorization."
+refund,rimborso
+void,nullo
+"This is an invalid amount for authorization.","Questo è un importo non valido per authorization."
 "This is an invalid amount for capture.","This is an invalid amount for capture."
 "This is an invalid amount for refund.","This is an invalid amount for refund."
 "This is an invalid split tenderId ID.","This is an invalid split tenderId ID."
@@ -41,7 +41,7 @@ void,void
 "Gateway error: %1","Gateway error: %1"
 "Gateway actions are locked because the gateway cannot complete ' 'one or more of the transactions. ' 'Please log in to your Authorize.Net account to manually resolve the issue(s).","Gateway actions are locked because the gateway cannot complete ' 'one or more of the transactions. ' 'Please log in to your Authorize.Net account to manually resolve the issue(s)."
 "Payment updating error.","Payment updating error."
-"Authorize Only","Authorize Only"
+"Authorize Only","Solo Authorize"
 "Authorize and Capture","Authorize and Capture"
 "Invalid amount for capture.","Invalid amount for capture."
 "Payment capturing error.","Payment capturing error."
@@ -55,33 +55,33 @@ void,void
 "This payment was not authorized because the transaction ID field is empty.","This payment was not authorized because the transaction ID field is empty."
 "Amount of %1 approved by payment gateway. Transaction ID: ""%2"".","Amount of %1 approved by payment gateway. Transaction ID: ""%2""."
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again."
-"Credit Card Type","Credit Card Type"
-"Credit Card Number","Credit Card Number"
-"Expiration Date","Expiration Date"
-"Card Verification Number","Card Verification Number"
+"Credit Card Type","Tipo Carta di Credito"
+"Credit Card Number","Numero Carta di Credito"
+"Expiration Date","Validità"
+"Card Verification Number","Codice di sicurezza Carta"
 "Click ""Cancel"" to remove any pending status and release money already processed during this payment.","Click ""Cancel"" to remove any pending status and release money already processed during this payment."
 "Please enter a different credit card number to complete your purchase.","Please enter a different credit card number to complete your purchase."
 "Credit Card %1","Credit Card %1"
-"Credit Card Information","Credit Card Information"
-"--Please Select--","--Please Select--"
+"Credit Card Information","Informazioni Carta di Credito"
+"--Please Select--","--Seleziona--"
 "Card Verification Number Visual Reference","Card Verification Number Visual Reference"
 "What is this?","What is this?"
 "You'll be asked for your payment details before placing an order.","You'll be asked for your payment details before placing an order."
 "To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.","To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel."
-Processing...,Processing...
-Enabled,Enabled
-"Sort Order","Sort Order"
-Title,Title
+Processing...,In Lavorazione...
+Enabled,Attivo
+"Sort Order","Ordinamento"
+Title,Titolo
 "3D Secure Card Validation","3D Secure Card Validation"
 "New Order Status","New Order Status"
 "No confirmation","No confirmation"
 Authorize.net,Authorize.net
-"Credit Card Types","Credit Card Types"
-"Credit Card Verification","Credit Card Verification"
-"Email Customer","Email Customer"
+"Credit Card Types","Tipologie Carta di Credito"
+"Credit Card Verification","Verifica Carta di Credito"
+"Email Customer","Email Cliente"
 "API Login ID","API Login ID"
 "Merchant's Email","Merchant's Email"
-"Test Mode","Test Mode"
+"Test Mode","Modalità Test"
 Debug,Debug
 "Transaction Key","Transaction Key"
 "Payment Action","Payment Action"
