@@ -1,300 +1,300 @@
-Custom,Custom
-"Are you sure?","Are you sure?"
-Close,Close
-Cancel,Cancel
-Back,Back
-Product,Product
-Price,Price
-Quantity,Quantity
+Custom,Personalizzato
+"Are you sure?","Sei sicuro?"
+Close,Chiudi
+Cancel,Cancella
+Back,Indietro
+Product,Prodotto
+Price,Prezzo
+Quantity,Quantità
 ID,ID
 SKU,SKU
-Customers,Customers
+Customers,Clienti
 No,No
-Subtotal,Subtotal
-Discount,Discount
-Action,Action
-"Excl. Tax","Excl. Tax"
-Total,Total
-"Incl. Tax","Incl. Tax"
-"Total incl. tax","Total incl. tax"
+Subtotal,Subtotale
+Discount,Sconto
+Action,Azione
+"Excl. Tax","Escl. Tasse"
+Total,Totale
+"Incl. Tax","Incl. Tasse"
+"Total incl. tax","Totale incl. tasse"
 Reset,Reset
-Edit,Edit
-"What is this?","What is this?"
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page."
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page."
-"Cache Storage Management","Cache Storage Management"
-"Flush Magento Cache","Flush Magento Cache"
-"Cache storage may contain additional data. Are you sure that you want flush it?","Cache storage may contain additional data. Are you sure that you want flush it?"
-"Flush Cache Storage","Flush Cache Storage"
-Invalidated,Invalidated
-Orders,Orders
-Amounts,Amounts
-Bestsellers,Bestsellers
-"Most Viewed Products","Most Viewed Products"
-"New Customers","New Customers"
-Customer,Customer
-Guest,Guest
-Items,Items
-"Grand Total","Grand Total"
-"Lifetime Sales","Lifetime Sales"
-"Average Orders","Average Orders"
-"Search Term","Search Term"
-Results,Results
-Uses,Uses
-Average,Average
-"Order Quantity","Order Quantity"
-Views,Views
-Revenue,Revenue
-Tax,Tax
-Shipping,Shipping
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)"
+Edit,Modifica
+"What is this?","Che cos'è?"
+"Invalid Form Key. Please refresh the page.","Form Key non valida. Aggiorna la pagina."
+"You entered an invalid Secret Key. Please refresh the page.","Hai inserito una Secret Key non valida. Aggiorna la pagina."
+"Cache Storage Management","Gestione Cache Storage"
+"Flush Magento Cache","Svuota Cache Magento"
+"Cache storage may contain additional data. Are you sure that you want flush it?","La Cache storage può contenere dati aggiuntivi. Sei sicuro di volerla svuotare?"
+"Flush Cache Storage","Svuota Cache Storage"
+Invalidated,Invalidata
+Orders,Ordini
+Amounts,Importi
+Bestsellers,Più Venduti
+"Most Viewed Products","Prodotti più venduti"
+"New Customers","Nuovi Clienti"
+Customer,Cliente
+Guest,Ospite
+Items,Elementi
+"Grand Total","Somma Totale"
+"Lifetime Sales","Vendite dall'inizio dell'attività"
+"Average Orders","Media Ordini"
+"Search Term","Termini di Ricerca"
+Results,Risultati
+Uses,Usi
+Average,Media
+"Order Quantity","Quantità Ordine"
+Views,Visualizzazioni
+Revenue,Rendita
+Tax,Tassa
+Shipping,Spedizione
+"Images (.gif, .jpg, .png)","Immagini (.gif, .jpg, .png)"
 "Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)"
-"All Files","All Files"
-"Interface Language","Interface Language"
-"Reset to Default","Reset to Default"
-"All Store Views","All Store Views"
-"Save Account","Save Account"
-"My Account","My Account"
-"Account Information","Account Information"
-"User Name","User Name"
-"First Name","First Name"
-"Last Name","Last Name"
+"All Files","Tutti i File"
+"Interface Language","Lingua Interfaccia"
+"Reset to Default","Ripristina di Default"
+"All Store Views","Tutte le Viste Negozio"
+"Save Account","Salva Account"
+"My Account","Il Mio Account"
+"Account Information","Informazioni Account"
+"User Name","Nome Utente"
+"First Name","Nome"
+"Last Name","Cognome"
 Email,Email
-"User Email","User Email"
-"New Password","New Password"
-"Password Confirmation","Password Confirmation"
-"Interface Locale","Interface Locale"
-"Save Cache Settings","Save Cache Settings"
-"Catalog Rewrites","Catalog Rewrites"
-Refresh,Refresh
-"Images Cache","Images Cache"
-Clear,Clear
-"Search Index","Search Index"
-Rebuild,Rebuild
-"Inventory Stock Status","Inventory Stock Status"
-"Rebuild Catalog Index","Rebuild Catalog Index"
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category"
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product"
-"Cache Control","Cache Control"
-"All Cache","All Cache"
-"No change","No change"
-Disable,Disable
-Enable,Enable
-"Default Config","Default Config"
-"Save Config","Save Config"
-[GLOBAL],[GLOBAL]
+"User Email","Email Utente"
+"New Password","Nuova Password"
+"Password Confirmation","Conferma Password"
+"Interface Locale","Interfaccia Locale"
+"Save Cache Settings","Salva Impostazioni Cache"
+"Catalog Rewrites","Rewrites Catalogo"
+Refresh,Aggiorna
+"Images Cache","Cache Immagini"
+Clear,Cancella
+"Search Index","Indice Ricerca"
+Rebuild,Ricostruisci
+"Inventory Stock Status","Stato Inventario"
+"Rebuild Catalog Index","Ricostruisci Indice Catalogo"
+"Rebuild Flat Catalog Category","Ricostruisci Catalogo Flat Categorie"
+"Rebuild Flat Catalog Product","Ricostruisci Catalogo Flat Prodotti"
+"Cache Control","Controllo Cache"
+"All Cache","Tutta la Cache"
+"No change","Nessun Cambiamento"
+Disable,Disattiva
+Enable,Attiva
+"Default Config","Config Default"
+"Save Config","Salva Config"
+[GLOBAL],[GLOBALE]
 [WEBSITE],[WEBSITE]
-"[STORE VIEW]","[STORE VIEW]"
-"Use Default","Use Default"
-"Use Website","Use Website"
-Add,Add
-"Delete File","Delete File"
-"Search String","Search String"
-"Design Theme","Design Theme"
-"Add \Exception","Add \Exception"
-"-- No Theme --","-- No Theme --"
-Synchronize,Synchronize
-Configuration,Configuration
-"Add Design Change","Add Design Change"
-Delete,Delete
-Save,Save
-"Edit Design Change","Edit Design Change"
-"New Store Design Change","New Store Design Change"
-"General Settings","General Settings"
-Store,Store
-"-- Please Select --","-- Please Select --"
-"Custom Design","Custom Design"
-"Date From","Date From"
-"Date To","Date To"
-"Design Change","Design Change"
-General,General
-"Delete %1 '%2'","Delete %1 '%2'"
-"Delete %1","Delete %1"
-"Block Information","Block Information"
-"Backup Options","Backup Options"
-"Create DB Backup","Create DB Backup"
-Yes,Yes
-"Delete Store","Delete Store"
-"Delete Web Site","Delete Web Site"
-"Save Web Site","Save Web Site"
-"Save Store","Save Store"
-"Save Store View","Save Store View"
-"Delete Store View","Delete Store View"
-"Edit Web Site","Edit Web Site"
-"New Web Site","New Web Site"
-"Edit Store","Edit Store"
-"New Store","New Store"
-"Edit Store View","Edit Store View"
-"New Store View","New Store View"
-"Store Information","Store Information"
+"[STORE VIEW]","[VISTA NEGOZIO]"
+"Use Default","Usa Default"
+"Use Website","Usa Website"
+Add,Aggiungi
+"Delete File","Elimina File"
+"Search String","Cerca Stringa"
+"Design Theme","Tema"
+"Add \Exception","Aggiungi \Exception"
+"-- No Theme --","-- Nessun Tema --"
+Synchronize,Sincronizza
+Configuration,Configurazione
+"Add Design Change","Aggiungi variazione Design"
+Delete,Elimina
+Save,Salva
+"Edit Design Change","Modifica variazione Design"
+"New Store Design Change","Nuova Variazione Design Negozio"
+"General Settings","Impostazioni Generali"
+Store,Negozio
+"-- Please Select --","-- Seleziona --"
+"Custom Design","Design Personalizzato"
+"Date From","Da"
+"Date To","A"
+"Design Change","Variazione Design"
+General,Generale
+"Delete %1 '%2'","Elimina %1 '%2'"
+"Delete %1","Elimina %1"
+"Block Information","Informazione Blocco"
+"Backup Options","Opzioni Backup"
+"Create DB Backup","Crea Backup DB"
+Yes,Si
+"Delete Store","Elimina Negozio"
+"Delete Web Site","Elimina Web Site"
+"Save Web Site","Salva Web Site"
+"Save Store","Salva Negozio"
+"Save Store View","Salva Vista Negozio"
+"Delete Store View","Elimina Vista Negozio"
+"Edit Web Site","Modifica Web Site"
+"New Web Site","Nuovo Web Site"
+"Edit Store","Modifica Negozio"
+"New Store","Nuovo Negozio"
+"Edit Store View","Modifica Vista Negozio"
+"New Store View","Nuova Vista Negozio"
+"Store Information","Informazioni Negozio"
 "Web Site","Web Site"
-Name,Name
-"Root Category","Root Category"
-"Default Store View","Default Store View"
-"Store View Information","Store View Information"
-Code,Code
+Name,Nome
+"Root Category","Categoria di Root"
+"Default Store View","Vista Negozio di Default"
+"Store View Information","Informazioni Vista Negozio"
+Code,Codice
 Status,Status
-Disabled,Disabled
-Enabled,Enabled
-"Sort Order","Sort Order"
-"Web Site Information","Web Site Information"
-"Default Store","Default Store"
-"Set as Default","Set as Default"
-Stores,Stores
-"Create Website","Create Website"
-"Create Store","Create Store"
-"Create Store View","Create Store View"
-"Custom Variables","Custom Variables"
-"Add New Variable","Add New Variable"
-"Save and Continue Edit","Save and Continue Edit"
-"Custom Variable ""%1""","Custom Variable ""%1"""
-"New Custom Variable","New Custom Variable"
-Variable,Variable
-"Variable Code","Variable Code"
-"Variable Name","Variable Name"
-"Use Default Variable Values","Use Default Variable Values"
-"Variable HTML Value","Variable HTML Value"
-"Variable Plain Value","Variable Plain Value"
-"URL Rewrite Management","URL Rewrite Management"
-"Add URL Rewrite","Add URL Rewrite"
-"Edit URL Rewrite for a Category","Edit URL Rewrite for a Category"
-"Add URL Rewrite for a Category","Add URL Rewrite for a Category"
-Category:,Category:
-"We can't set up a URL rewrite because the product you chose is not associated with a website.","We can't set up a URL rewrite because the product you chose is not associated with a website."
-"We can't set up a URL rewrite because the category your chose is not associated with a website.","We can't set up a URL rewrite because the category your chose is not associated with a website."
-"Edit URL Rewrite for a Product","Edit URL Rewrite for a Product"
-"Add URL Rewrite for a Product","Add URL Rewrite for a Product"
-Product:,Product:
-"Skip Category Selection","Skip Category Selection"
-"Edit URL Rewrite for CMS page","Edit URL Rewrite for CMS page"
-"Add URL Rewrite for CMS page","Add URL Rewrite for CMS page"
-"CMS page:","CMS page:"
-"Chosen cms page does not associated with any website.","Chosen cms page does not associated with any website."
-Title,Title
+Disabled,Disattivato
+Enabled,Attivato
+"Sort Order","Tipo Ordinamento"
+"Web Site Information","Informazioni Web Site"
+"Default Store","Negozio Default"
+"Set as Default","Imposta come Default"
+Stores,Negozi
+"Create Website","Crea Website"
+"Create Store","Crea Negozio"
+"Create Store View","Crea Vista Negozio"
+"Custom Variables","Variabili Personalizzate"
+"Add New Variable","Aggiungi Nuova Variabile"
+"Save and Continue Edit","Salva e Continua Modifiche"
+"Custom Variable ""%1""","Variabile Personalizzata ""%1"""
+"New Custom Variable","Nuova Variabile Personalizzata"
+Variable,Variabile
+"Variable Code","Codice Variabile"
+"Variable Name","Nome Variabile"
+"Use Default Variable Values","Usa Valori di Default Variabile"
+"Variable HTML Value","Valore HTML Variabile"
+"Variable Plain Value","Valore Variabile Semplice"
+"URL Rewrite Management","Gestione URL Rewrite"
+"Add URL Rewrite","Aggiungi URL Rewrite"
+"Edit URL Rewrite for a Category","Modifica URL Rewrite per una Categoria"
+"Add URL Rewrite for a Category","Aggiungi URL Rewrite per una Categoria"
+Category:,Categoria:
+"We can't set up a URL rewrite because the product you chose is not associated with a website.","Non è possibile impostare una URL rewrite perchè il prodotto che hai scelto non è associato con un website."
+"We can't set up a URL rewrite because the category your chose is not associated with a website.","Non è possibile impostare una URL rewrite perchè la categoria che hai scelto non è associata con un website."
+"Edit URL Rewrite for a Product","Modifica URL Rewrite per un Prodotto"
+"Add URL Rewrite for a Product","Aggiungi URL Rewrite per un Prodotto"
+Product:,Prodotto:
+"Skip Category Selection","Salta Selezione Categoria"
+"Edit URL Rewrite for CMS page","Modifica URL Rewrite per una pagina CMS"
+"Add URL Rewrite for CMS page","Aggiungi URL Rewrite per una pagina CMS"
+"CMS page:","Pagina CMS:"
+"Chosen cms page does not associated with any website.","La pagina CMS scelta non è associata a nessun website."
+Title,Titolo
 "URL Key","URL Key"
-"Store View","Store View"
-"Edit URL Rewrite","Edit URL Rewrite"
-"Add New URL Rewrite","Add New URL Rewrite"
-"Are you sure you want to do this?","Are you sure you want to do this?"
-"URL Rewrite Information","URL Rewrite Information"
-Type,Type
-"ID Path","ID Path"
-"Request Path","Request Path"
-"Target Path","Target Path"
+"Store View","Vista Negozio"
+"Edit URL Rewrite","Modifica URL Rewrite"
+"Add New URL Rewrite","Aggiungi Nuova URL Rewrite"
+"Are you sure you want to do this?","Sei sicuro di voler procedere?"
+"URL Rewrite Information","Informazioni URL Rewrite"
+Type,Tipo
+"ID Path","ID Percorso"
+"Request Path","Percorso Richiesto"
+"Target Path","Percorso di destinazione"
 Redirect,Redirect
-Description,Description
-"For category","For category"
-"For product","For product"
-"For CMS page","For CMS page"
-"Create URL Rewrite:","Create URL Rewrite:"
-"Global Attribute","Global Attribute"
-"This attribute shares the same value in all stores.","This attribute shares the same value in all stores."
+Description,Descrizione
+"For category","Per categoria"
+"For product","Per prodotto"
+"For CMS page","Per pagina CMS"
+"Create URL Rewrite:","Crea URL Rewrite:"
+"Global Attribute","Attributo Globale"
+"This attribute shares the same value in all stores.","Questo attributo condivide lo stesso valore in tutti i negozi"
 Home,Home
-"Add New Image","Add New Image"
-"Reset Filter","Reset Filter"
-Search,Search
-Any,Any
-"All Countries","All Countries"
-From,From
-To,To
-"Date selector","Date selector"
-"[ deleted ]","[ deleted ]"
-"Select All","Select All"
-" [deleted]"," [deleted]"
-"We couldn't find any records.","We couldn't find any records."
-"Add New","Add New"
-Export,Export
-"Please correct the column format and try again.","Please correct the column format and try again."
-"Please select items.","Please select items."
-Submit,Submit
-"Please correct the tab configuration and try again.","Please correct the tab configuration and try again."
-"You have logged out.","You have logged out."
-"Cache Management","Cache Management"
-"You flushed the cache storage.","You flushed the cache storage."
-"The Magento cache storage has been flushed.","The Magento cache storage has been flushed."
-"%1 cache type(s) enabled.","%1 cache type(s) enabled."
-"An error occurred while enabling cache.","An error occurred while enabling cache."
-"%1 cache type(s) disabled.","%1 cache type(s) disabled."
-"An error occurred while disabling cache.","An error occurred while disabling cache."
-"%1 cache type(s) refreshed.","%1 cache type(s) refreshed."
-"An error occurred while refreshing cache.","An error occurred while refreshing cache."
-"Specified cache type(s) don't exist: ","Specified cache type(s) don't exist: "
-"The JavaScript/CSS cache has been cleaned.","The JavaScript/CSS cache has been cleaned."
-"An error occurred while clearing the JavaScript/CSS cache.","An error occurred while clearing the JavaScript/CSS cache."
-"The image cache was cleaned.","The image cache was cleaned."
-"An error occurred while clearing the image cache.","An error occurred while clearing the image cache."
+"Add New Image","Aggiungi Nuova Immagine"
+"Reset Filter","Reset Filtri"
+Search,Cerca
+Any,qualsiasi
+"All Countries","Tutti i Paesi"
+From,Da
+To,A
+"Date selector","Selettore Data"
+"[ deleted ]","[ eliminato ]"
+"Select All","Seleziona Tutto"
+" [deleted]"," [eliminato]"
+"We couldn't find any records.","Non è stato trovato nessun registro."
+"Add New","Aggiungi Nuovo"
+Export,Esportazione
+"Please correct the column format and try again.","Correggi il formato della colonna e riprova."
+"Please select items.","Seleziona elementi."
+Submit,Invia
+"Please correct the tab configuration and try again.","Correggi la configurazione della tab e riprova."
+"You have logged out.","Hai eseguito il logout."
+"Cache Management","Gestione Cache"
+"You flushed the cache storage.","Hai svuotato la cache storage."
+"The Magento cache storage has been flushed.","La cache storage di Magento è stata svuotata."
+"%1 cache type(s) enabled.","%1 tipi di cache attivati."
+"An error occurred while enabling cache.","Errore comparso durante l'attivazione della cache."
+"%1 cache type(s) disabled.","%1 tipi di cache disattivati."
+"An error occurred while disabling cache.","Errore comparso durante la disattivazione della cache."
+"%1 cache type(s) refreshed.","%1 tipi di cache aggiornati."
+"An error occurred while refreshing cache.","Errore comparso durante l'aggiornamento della cache."
+"Specified cache type(s) don't exist: ","I tipi di cache specificati non esistono: "
+"The JavaScript/CSS cache has been cleaned.","La Cache JavaScript/CSS è stata svuotata."
+"An error occurred while clearing the JavaScript/CSS cache.","Errore comparso durante la pulizia della cache JavaScript/CSS."
+"The image cache was cleaned.","La Cache immagini è stata svuotata."
+"An error occurred while clearing the image cache.","Errore comparso durante la pulizia della cache immagini."
 Dashboard,Dashboard
-"invalid request","invalid request"
-"see error log for details","see error log for details"
-"Service unavailable: %1","Service unavailable: %1"
-Error,Error
-"Access Denied","Access Denied"
-"You need more permissions to do this.","You need more permissions to do this."
+"invalid request","richiesta non valida"
+"see error log for details","vedi gli error log per i dettagli"
+"Service unavailable: %1","Servizio non disponibile: %1"
+Error,Errore
+"Access Denied","Accesso Negato"
+"You need more permissions to do this.","Hai bisogno di maggiori permessi per eseguire questa azione."
 "No search modules were registered","No search modules were registered"
 "Please make sure that all global admin search modules are installed and activated.","Please make sure that all global admin search modules are installed and activated."
-System,System
-"The account has been saved.","The account has been saved."
-"An error occurred while saving account.","An error occurred while saving account."
-"This section is not allowed.","This section is not allowed."
-"You saved the configuration.","You saved the configuration."
-"An error occurred while saving this configuration:","An error occurred while saving this configuration:"
-"Synchronizing %1 to %2","Synchronizing %1 to %2"
-Synchronizing...,Synchronizing...
-"The timeout limit for response from synchronize process was reached.","The timeout limit for response from synchronize process was reached."
-"Store Design","Store Design"
-"Edit Store Design Change","Edit Store Design Change"
-"You saved the design change.","You saved the design change."
-"You deleted the design change.","You deleted the design change."
-"Cannot delete the design change.","Cannot delete the design change."
-"Manage Stores","Manage Stores"
-"The website does not exist.","The website does not exist."
-"Before modifying the website code please make sure that it is not used in index.php.","Before modifying the website code please make sure that it is not used in index.php."
-"The store does not exist","The store does not exist"
-"Store view doesn't exist","Store view doesn't exist"
-"Before modifying the store view code please make sure that it is not used in index.php.","Before modifying the store view code please make sure that it is not used in index.php."
-"New ","New "
-"The website has been saved.","The website has been saved."
-"The store has been saved.","The store has been saved."
-"The store view has been saved","The store view has been saved"
-"An error occurred while saving. Please review the error log.","An error occurred while saving. Please review the error log."
-"Unable to proceed. Please, try again.","Unable to proceed. Please, try again."
-"This website cannot be deleted.","This website cannot be deleted."
-"This store cannot be deleted.","This store cannot be deleted."
-"This store view cannot be deleted.","This store view cannot be deleted."
-"Unable to proceed. Please, try again","Unable to proceed. Please, try again"
-"The website has been deleted.","The website has been deleted."
-"Unable to delete website. Please, try again later.","Unable to delete website. Please, try again later."
-"The store has been deleted.","The store has been deleted."
-"Unable to delete store. Please, try again later.","Unable to delete store. Please, try again later."
-"The store view has been deleted.","The store view has been deleted."
-"Unable to delete store view. Please, try again later.","Unable to delete store view. Please, try again later."
-"The database was backed up.","The database was backed up."
-"We couldn't create a backup right now. Please try again later.","We couldn't create a backup right now. Please try again later."
-"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1."
-"You saved the custom variable.","You saved the custom variable."
-"You deleted the custom variable.","You deleted the custom variable."
+System,Sistema
+"The account has been saved.","L'account è stato salvato."
+"An error occurred while saving account.","Errore comparso durante il salvataggio dell'account."
+"This section is not allowed.","Questa sezione non è permessa.."
+"You saved the configuration.","Hai salvato la configurazione."
+"An error occurred while saving this configuration:","Errore comparso durante il salvataggio di questa configurazione:"
+"Synchronizing %1 to %2","Sincronizzazione %1 di %2"
+Synchronizing...,Sincronizzazione...
+"The timeout limit for response from synchronize process was reached.","Il limite di Timeout perla risposta dalla sincronizzazione è stato raggiunto."
+"Store Design","Design Negozio"
+"Edit Store Design Change","Modifica Variazione Design Negozio"
+"You saved the design change.","Hai salvato la variazione di design."
+"You deleted the design change.","Hai eliminato la Variazione di design."
+"Cannot delete the design change.","Non è possibile eliminare la variazione di design."
+"Manage Stores","Gestione Negozi"
+"The website does not exist.","Il website non esiste."
+"Before modifying the website code please make sure that it is not used in index.php.","Prima di modificare il codice del website assicurati che non sia utilizzato in index.php."
+"The store does not exist","Il negozio non esiste"
+"Store view doesn't exist","La vista negozio non esiste"
+"Before modifying the store view code please make sure that it is not used in index.php.","Prima di modificare il codice della vista negozio assicurati che non sia utilizzato in index.php."
+"New ","Nuovo "
+"The website has been saved.","Il website è stato salvato."
+"The store has been saved.","Il negozio è stato salvato."
+"The store view has been saved","La vista negozio è stata salvata"
+"An error occurred while saving. Please review the error log.","Errore comparso durante il salvataggio. Verifica gli error log."
+"Unable to proceed. Please, try again.","Impossibile proseguire. Ritenta nuovamente."
+"This website cannot be deleted.","Questo website non può essere eliminato."
+"This store cannot be deleted.","Questo negozio non può essere eliminato."
+"This store view cannot be deleted.","Questa vista negozio non può essere eliminata."
+"Unable to proceed. Please, try again","Impossibile proseguire. Ritenta nuovamente"
+"The website has been deleted.","Il website è stato eliminato."
+"Unable to delete website. Please, try again later.","Impossibile eliminare il website. Ritenta più tardi."
+"The store has been deleted.","Lo store è stato eliminato."
+"Unable to delete store. Please, try again later.","Impossibile eliminare lo store. Ritenta più tardi."
+"The store view has been deleted.","La vista negozio è stata eliminata."
+"Unable to delete store view. Please, try again later.","Impossibile eliminare la vista negozio. Riprova più tardi."
+"The database was backed up.","Il database è stato backuppato."
+"We couldn't create a backup right now. Please try again later.","Non è possibile creare il backup. Ritenta più tardi."
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","L'eliminazione di un %1 non elimina le informazioni associate con il %1 (es. categorie, prodotti, ecc.), ma il %1 non potrà essere ripristinato. Si suggerisce di creare un backup del database prima di eliminare %1."
+"You saved the custom variable.","Hai salvato la variabile personalizzata."
+"You deleted the custom variable.","Hai eliminato la variabile personalizzata."
 "URL Rewrites","URL Rewrites"
-"[New/Edit] URL Rewrite","[New/Edit] URL Rewrite"
-"The URL Rewrite has been saved.","The URL Rewrite has been saved."
-"An error occurred while saving URL Rewrite.","An error occurred while saving URL Rewrite."
-"Chosen product does not associated with the chosen store or category.","Chosen product does not associated with the chosen store or category."
-"Chosen category does not associated with the chosen store.","Chosen category does not associated with the chosen store."
-"Chosen cms page does not associated with the chosen store.","Chosen cms page does not associated with the chosen store."
-"The URL Rewrite has been deleted.","The URL Rewrite has been deleted."
-"An error occurred while deleting URL Rewrite.","An error occurred while deleting URL Rewrite."
-"Last 24 Hours","Last 24 Hours"
-"Last 7 Days","Last 7 Days"
-"Current Month","Current Month"
+"[New/Edit] URL Rewrite","[Nuovo/Modifica] URL Rewrite"
+"The URL Rewrite has been saved.","L'URL Rewrite è stata salvata."
+"An error occurred while saving URL Rewrite.","Errore comparso durante il salvataggio dell'URL Rewrite."
+"Chosen product does not associated with the chosen store or category.","Il prodotto scelto non è stato associato al negozio o alla categoria scelta."
+"Chosen category does not associated with the chosen store.","La categoria scelta non è stata associata al negozio scelto."
+"Chosen cms page does not associated with the chosen store.","La pagina CMS scelta non è stata associata al negozio scelto."
+"The URL Rewrite has been deleted.","La URL Rewrite è stata eliminata."
+"An error occurred while deleting URL Rewrite.","Errore comparso durante l'eliminazione della URL Rewrite."
+"Last 24 Hours","Ultime 24 Ore"
+"Last 7 Days","Ultimi 7 Giorni"
+"Current Month","Mese Corrente"
 YTD,YTD
 2YTD,2YTD
-"Please correct the user name or password.","Please correct the user name or password."
-"Authentication error occurred.","Authentication error occurred."
-"Please specify the admin custom URL.","Please specify the admin custom URL."
-"Invalid %1. %2","Invalid %1. %2"
-"Value must be a URL or one of placeholders: %1","Value must be a URL or one of placeholders: %1"
-"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Specify a URL or path that starts with placeholder(s): %1, and ends with ""/""."
-"%1 An empty value is allowed as well.","%1 An empty value is allowed as well."
-"Specify a fully qualified URL.","Specify a fully qualified URL."
+"Please correct the user name or password.","Correggi l'username o password."
+"Authentication error occurred.","Errore di Autenticazione."
+"Please specify the admin custom URL.","Specifica la URL personalizzata di admin."
+"Invalid %1. %2","%1 non valido. %2"
+"Value must be a URL or one of placeholders: %1","Il valore deve essere un URL o uno dei suoi segnaposto: %1"
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Specifica un URL o un percorso che inizi con il segnaposto: %1, e finisca con ""/""."
+"%1 An empty value is allowed as well.","%1 E' ammesso anche un valore vuoto."
+"Specify a fully qualified URL.","Specifica un URL completo qualificato ."
 "Selected allowed currency ""%1"" is not available in installed currencies.","Selected allowed currency ""%1"" is not available in installed currencies."
 "Default display currency ""%1"" is not available in allowed currencies.","Default display currency ""%1"" is not available in allowed currencies."
 "Sorry, we haven't installed the base currency you selected.","Sorry, we haven't installed the base currency you selected."

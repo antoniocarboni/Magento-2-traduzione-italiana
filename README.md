@@ -21,6 +21,10 @@ Si accettano suggerimenti, adattamenti e correzioni di terminologie o di eventua
 - Checkout -> Checkout
 - Wishlist -> Lista desideri
 
+- Global -> Globale
+- Website -> Website
+- Store -> Negozio
+- Store View -> Vista Negozio
 - Base Secure URL -> Base URL Sicuro
 - Base Unsecure URL -> Base URL Non Sicuro
 - Layout -> Layout
@@ -29,6 +33,8 @@ Si accettano suggerimenti, adattamenti e correzioni di terminologie o di eventua
 - Log -> Log
 - Media Storage -> ??
 - Cache Types -> ??
+- Maintenance Mode -> Modalità Manutenzione
+- Renderer ???
 
 
 ____________________________
@@ -38,6 +44,7 @@ ____________________________
 
 - Cache Management -> Gestione Cache
 - Index Management -> Gestione Indici
+- URL Rewrite Management -> Gestione URL Rewrite
 ____________________________
 
 
